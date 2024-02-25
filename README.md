@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Web SSR de Código Abierto de Harry Potter ‍♂️
 
-## Getting Started
+![Hogwarts castle imagage](readme/file.png)
+**¡Bienvenido al mágico mundo de la Web SSR de Código Abierto de Harry Potter!** Este proyecto tiene como objetivo crear una experiencia web interactiva y envolvente para todos los fans del Mundo Mágico.
 
-First, run the development server:
+**¿En qué consiste?**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Esta aplicación web está desarrollada con Next.js y utiliza Server-Side Rendering (SSR) para ofrecer una experiencia fluida y dinámica.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**¡Únete a la magia!**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+¡Queremos que formes parte de este proyecto! Es de código abierto y está abierto a todo tipo de colaboraciones. Si eres desarrollador, diseñador, escritor o simplemente un fanático de Harry Potter, ¡nos encantaría tenerte con nosotros!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**¿Cómo añadir una nueva función?**
 
-## Learn More
+Es muy sencillo:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Elige una función:** Piensa en algo que te gustaría ver en la aplicación. Puedes inspirarte en los libros, películas, videojuegos o incluso crear algo completamente nuevo.
+2. **Crea un issue:** Describe tu idea en un nuevo issue en el repositorio. Incluye detalles sobre la funcionalidad, el diseño y cualquier otra información relevante.
+3. **Implementa la función:** Una vez que tu issue sea aprobado, puedes crear un pull request con tu código. Asegúrate de seguir las pautas de contribución del proyecto.
+4. **¡Revisión y fusión!** Cuando tu código haya sido revisado y aprobado, se fusionará en la rama principal y tu función estará disponible para todos los usuarios.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Ejemplo de función**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Aquí tienes un ejemplo de una función que podrías añadir:
 
-## Deploy on Vercel
+- **Un mapa interactivo del Castillo de Hogwarts:** Los usuarios podrán explorar el castillo, descubrir habitaciones secretas y aprender sobre la historia de cada lugar.
+- **Un cuestionario para determinar tu casa de Hogwarts:** Los usuarios podrán responder preguntas para ser clasificados en Gryffindor, Ravenclaw, Hufflepuff o Slytherin.
+- **Un juego de pociones:** Los usuarios podrán seguir recetas para crear pociones virtuales y aprender sobre sus efectos.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**¡Las posibilidades son infinitas!**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**¿Cómo empezar?**
+
+Para comenzar, puedes:
+
+- **Clonar el repositorio:** `git clone https://github.com/freddysae0/hogwarts-front.git`
+- **Instalar las dependencias:** `npm install`
+- **Iniciar el servidor de desarrollo:** `npm run dev`
+- ¡Echa un vistazo al código y empieza a pensar en tu función!
+
+Estamos deseando ver qué creas. ¡Únete a nosotros y hagamos de esta la mejor Web SSR de Código Abierto de Harry Potter del mundo!
+
+**Recursos**
+
+- Repositorio de GitHub: [Enlace a tu repositorio]
+- Documentación de Next.js: [https://nextjs.org/docs](https://nextjs.org/docs)
+- Guía de contribución: [Enlace a tu guía de contribución]
+
+**¡Feliz viaje a hogwarts!** 🪄
