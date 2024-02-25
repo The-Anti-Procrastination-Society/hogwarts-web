@@ -42,8 +42,6 @@ Para comenzar, puedes:
 - **Iniciar el servidor de desarrollo:** `npm run dev`
 - ¡Echa un vistazo al código y empieza a pensar en tu función!
 
-Estamos deseando ver qué creas. ¡Únete a nosotros y hagamos de esta la mejor Web SSR de Código Abierto de Harry Potter del mundo!
-
 **Recursos**
 
 - Documentación de Next.js: [https://nextjs.org/docs](https://nextjs.org/docs)
