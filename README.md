@@ -46,8 +46,6 @@ Estamos deseando ver qué creas. ¡Únete a nosotros y hagamos de esta la mejor 
 
 **Recursos**
 
-- Repositorio de GitHub: [Enlace a tu repositorio]
 - Documentación de Next.js: [https://nextjs.org/docs](https://nextjs.org/docs)
-- Guía de contribución: [Enlace a tu guía de contribución]
 
 **¡Feliz viaje a hogwarts!** 🪄
