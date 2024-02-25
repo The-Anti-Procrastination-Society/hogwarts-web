@@ -1,6 +1,9 @@
-## Web SSR de Código Abierto de Harry Potter ‍♂️
+# HOGWARTS.CU
 
 ![Hogwarts castle imagage](readme/file.png)
+
+## Web SSR de Código Abierto de Harry Potter ‍♂️
+
 **¡Bienvenido al mágico mundo de la Web SSR de Código Abierto de Harry Potter!** Este proyecto tiene como objetivo crear una experiencia web interactiva y envolvente para todos los fans del Mundo Mágico.
 
 **¿En qué consiste?**
