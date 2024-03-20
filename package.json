@@ -1,5 +1,5 @@
 {
-  "name": "hogwarts-front",
+  "name": "portfolio2024",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,15 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "^5.0.20",
+    "@fontsource/jockey-one": "^5.0.19",
+    "next": "14.1.2",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.2",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.0"
+    "typescript": "^5"
   }
 }
