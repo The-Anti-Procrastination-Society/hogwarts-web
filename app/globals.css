@@ -1,8 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -18,7 +16,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
- background: #403063;
+ background: #161838;
  overflow-x: hidden;
 
 }
