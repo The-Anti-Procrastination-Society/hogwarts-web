@@ -1,4 +1,11 @@
 import { useRef } from "react";
+import Footer from "@/app/footer";
 export default function Home() {
-  return <></>;
+  return (
+    <>
+      <div className="min-h-screen">
+        <Footer></Footer>
+      </div>
+    </>
+  );
 }
