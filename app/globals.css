@@ -16,9 +16,8 @@
 
 body {
   color: rgb(var(--foreground-rgb));
- background: #161838;
- overflow-x: hidden;
-
+  background: linear-gradient(#24275a, #0a0b20);
+  overflow-x: hidden;
 }
 
 @layer utilities {
@@ -26,10 +25,3 @@ body {
     text-wrap: balance;
   }
 }
-
-
-
-
-
-
-
